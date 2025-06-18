@@ -1,4 +1,4 @@
-<!-- Visitor counter badge -->
+[<!-- Visitor counter badge -->
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=iamsurya2904.iamsurya2904" alt="Visitor Count" /> 
 </div>
@@ -33,3 +33,4 @@ class SecurityDeveloper:
         return "Transforming security challenges into innovative solutions"
     
 me = SecurityDeveloper()
+](https://visitor-badge.laobi.icu/badge?page_id=iamsurya2904.iamsurya2904)
